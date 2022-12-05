@@ -1,5 +1,5 @@
 ## Branching workflow
-https://dev.to/github/how-do-i-resolve-merge-conflicts-5438#:~:text=The%20current%20change%20(sometimes%20called,modifications%20made%20by%20other%20developers.
+
 Develop features in branches - with the GitHub Flow. A typical workflow for companies.
 
 ### Develop a feature
